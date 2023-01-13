@@ -1,5 +1,7 @@
 유튜브 앱 작성
 
+https://docs.google.com/document/d/1vHlO8lgIo1oXBYiecpE8TbG2tHnr3Hmv25UxK_7a5_g/edit#
+
 목표: 유튜브 앱을 만든다.
 
 과제 기간:
